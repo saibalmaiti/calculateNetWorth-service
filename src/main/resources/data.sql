@@ -1,6 +1,6 @@
 
 
-insert into PORTFOLIODETAILS values(1);
+insert into portfoliodetails(pid) values(1);
 
 insert into stockdetails(sid, stock_name, stock_count,pid) values (1, 'ULTRACEMCO', 10,1);
 insert into stockdetails(sid, stock_name, stock_count,pid) values (2, 'TCS', 20,1);
